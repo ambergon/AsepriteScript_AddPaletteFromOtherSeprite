@@ -11,9 +11,9 @@ local ColorPalette_Directory = "D:/OneDrive/ColorPalette"
 
 
 ### offset
-読み込むカラーパレットのオフセットを指定します。
-指定しただけ読み込んだカラーパレットの先頭からスキップします。
-1にするとパレットの先頭をスキップできるので、透過色に使用している色を読み込まないようにできます。
+<br>読み込むカラーパレットのオフセットを指定します。
+<br>指定しただけ読み込んだカラーパレットの先頭からスキップします。
+<br>1にするとパレットの先頭をスキップできるので、透過色に使用している色を読み込まないようにできます。
 
 
 ### ColorPalette_Directory
@@ -38,10 +38,10 @@ File -> Scripts -> Rescan Script Folder
 
 
 ## Usage
-File -> Scripts -> AddPaletteFromOtherSeprite
-or 
-Register your own shortcuts
-Edit -> Keyboard Shortcuts -> AddPaletteFromOtherSeprite
+<br>File -> Scripts -> AddPaletteFromOtherSeprite
+<br>or 
+<br>Register your own shortcuts
+<br>Edit -> Keyboard Shortcuts -> AddPaletteFromOtherSeprite
 
 
 ## Author
