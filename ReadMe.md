@@ -1,9 +1,9 @@
-# AsepriteScript_AddPaletteFromOtherSeprite
+# AsepriteScript_AddPaletteFromOtherSprite
 指定したディレクトリにあるasepriteファイルをリストで表示し、選択したファイルのパレットを追加で読み込むスクリプトです。
 
 
 ## Config
-AddPaletteFromOtherSeprite.luaの先頭に変更項目があります。
+AddPaletteFromOtherSprite.luaの先頭に変更項目があります。
 ```
 local offset = 0
 local ColorPalette_Directory = "D:/OneDrive/ColorPalette"
@@ -38,10 +38,10 @@ File -> Scripts -> Rescan Script Folder
 
 
 ## Usage
-<br>File -> Scripts -> AddPaletteFromOtherSeprite
+<br>File -> Scripts -> AddPaletteFromOtherSprite
 <br>or 
 <br>Register your own shortcuts
-<br>Edit -> Keyboard Shortcuts -> AddPaletteFromOtherSeprite
+<br>Edit -> Keyboard Shortcuts -> AddPaletteFromOtherSprite
 
 
 ## Author
